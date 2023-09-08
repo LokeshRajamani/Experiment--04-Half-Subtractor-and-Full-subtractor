@@ -40,12 +40,21 @@ RegisterNumber:
 */
 
 ## Output:
+FULL SUBTRACTOR
+![EX4 Full sub](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/277c1d49-dc8a-4354-a3ec-af0aac3f6cd1)
+HALF SUBTRACTOR
+![EX4 DE HS](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/a791e6b3-60b3-43d7-89f9-ef4356da6095)
+
 
 ## Truthtable
 
 
 
 ##  RTL realization
+FULL SUBTRACTOR
+![Ex 4 Rtl full sub](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/80da9746-d751-45cd-81c8-6f6a215dd04d)
+HALF SUBTRACTOR
+![EX4 DE HS RTL](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/15ccbafb-3ff9-4ab9-b52f-3c610e14b799)
 
 
 ## Timing diagram 
