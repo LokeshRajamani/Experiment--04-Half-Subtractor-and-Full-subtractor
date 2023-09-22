@@ -67,27 +67,18 @@ endmodule
 
 ## Truthtable
 ### FULLSUBTRACTOR
-
+![TT_FULL](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/4465fad1-cb8e-4092-9431-be4d5a87d18e)
 ### HALFSUBTRACTOR
-
-
-
+![TT_HALF](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/c2e6d6f3-ed00-4047-88f1-a04bab0215fb)
 ##  RTL realization
 ### FULLSUBTRACTOR
-
-
+![fullsubtractor_rtl](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/c23570af-43cb-4773-89fa-58764fdd2e97)
 ### HALFSUBTRACTOR
-
-
-
+![halfsubtractor_rtl](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/27474220-54be-4d86-99ad-23c74c22bbad)
 ## Timing diagram 
-
 ### FULLSUBTRACTOR
-
-
+![fullsubtractor_wf](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/1e2fa2d4-14e0-40ce-a9f4-f76e43c957c7)
 ### HALFSUBTRACTOR
-
-
-
+![halfsubtractor_Wf](https://github.com/LokeshRajamani/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/120544804/de9af818-4e69-4d79-aae1-6f41b10490a2)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
